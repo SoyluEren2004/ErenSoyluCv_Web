@@ -6,16 +6,63 @@
 }
 ol{
     margin-left: -40px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
     margin-top: -20px;
 }
 ul{
     margin-left: -40px;
     margin-top: -20px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 .note{
     color: red;
+    font-size: xx-large;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 *{
     text-align: center;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: whitesmoke;
+   
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    font-size: xx-large;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.ıdogp{
+    color: whitesmoke;
+    
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.python{
+    color: whitesmoke;
+   
+    font-size: xx-large;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.about{
+    font-size: xx-large;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
