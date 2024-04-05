@@ -1,0 +1,21 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+ol{
+    margin-left: -40px;
+    margin-top: -20px;
+}
+ul{
+    margin-left: -40px;
+    margin-top: -20px;
+}
+.note{
+    color: red;
+}
+
+*{
+    text-align: center;
+}
